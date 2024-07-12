@@ -68,7 +68,7 @@ header {
 }
 
 main {
-  background-image: url(img_9.jpg.webp);
+  background-image: url(imgs/img_9.jpg.webp);
   background-size: cover;
   background-attachment: fixed;
   width: 87%;
